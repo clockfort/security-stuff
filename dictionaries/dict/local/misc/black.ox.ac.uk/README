@@ -1,0 +1,25 @@
+Antworth	@ Big dictionary, includes many inflected forms
+CIS		@ Words and names from Current Index to Statistics (partial)
+CRL.words	@ Dictionary from Center for Research in Lexicography
+Congress	@ Names and nicknames of U. S. Congressmen
+Domains		@ Internet domains
+Dosref		@ Words from the DOS Technical Reference Manual
+Ethnologue	@ Words from the "Ethnologue Database"
+Ftpsites	@ Anonymous ftp sites
+Jargon		@ Words from the Jargon File
+Koran		@ Words from the Koran
+LCarrol		@ Words from AliceIW, AliceTTLG, Snark
+Movies		@ Characters, actors, and titles from thousands of movies
+Paradise.Lost	@ Words from P. L. (a touch of class)
+Python		@ Words and names from M. P. scripts
+Roget.words	@ Words from 1911 R's Thesaurus
+Trek		@ Words and names from Star Trek plot summaries
+Unabr.dict	@ A big unabridged dictionary
+World.factbook	@ Words, names, many acronyms from the CIA World Factbook
+Zipcodes	@ All U. S. post offices (except the last half of Alaska)
+
+Words in /usr/dict/words deleted from all these lists
+Words in Dan Klein's suite of lists deleted from several of them
+    (that's why "klingon" doesn't appear in "Trek")
+
+

@@ -1,0 +1,38 @@
+Some commentary on the file words.finnish, first in Finnish:
+Hieman kommentteja tiedostosta words.finnish, ensin suomeksi:
+
+1) Aineistona on k{ytetty er{{n suomalaisen aikakauslehden muutamaa
+   vuosikertaa.  Aineisto ei ole julkista, ja lehden julkaisija ei ole
+   ilmaissut halukkuutta nimens{ mainitsemiseen aineiston yhteydess{.
+2) Aineisto on jonkin hienon (eritt{in ei-UNIX) tekstink{sittelyj{rjestelm{n
+   formaatissa: muunnos 7-bit skandi-ASCIIksi on tehty automaattifilttereill{.
+   Mit{{n oikolukua, ihmis- tai kone-, ei ole tehty.
+   "Sanoja" on 287698, oikolukijat ja -lukimet ovat tervetulleita.
+3) Aineistosta johtuen joukossa on lyhenteit{, vieraskielisi{ nimi{ ja sanoja,
+   suomenkielisten sanojen ja nimien lis{ksi.
+
+words.finnish EI ole kelvollinen suomen kielen sanastolista,
+esimerkiksi oikeinkirjoituksen tarkistusohjelmia varten.
+(ja ilman todella hyvin suomenkielen taivutusta hallitsevaa ohjelmaa,
+ pelkk{ suomenkielen sanalista on melko hy|dyt|n...)
+
+and then in English:
+ja sitten englanniksi:
+
+1) The source material comes from a Finnish magazine.
+   The material is not freely available and the publisher has not
+   been eager to get its name mentioned in connection with the material.
+2) The material is in some fancy (exteremely non-UNIX) text processing
+   system format: the translation inyo 7-bit Scandinavian-ASCII has been
+   done with automatic filters.
+   No proofreading, either by human or computer, has not been done.
+   There are 287698 "words", proofreaders are welcome.
+3) Due to the source material, there are abbreviations, foreign language
+   names and words, in addition to Finnish words and names.
+
+words.finnish is NOT suitable for a Finnish wordlist, to be
+used for example as the wordlist for a spelling checker.
+(and without an extremely Finnish-inflection-system-aware program,
+ a bare wordlist of Finnish is quite useless...)
+
+++jhi;
